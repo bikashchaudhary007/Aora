@@ -24,7 +24,6 @@ const SignIn = () => {
       setUser(result);
       setIsLoggedIn(true);
       Alert.alert("Success", "User signed in successfully");
-      //set it to global state...
 
       router.replace("/home");
     } catch (error) {

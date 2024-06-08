@@ -3,9 +3,10 @@
     "name": "aora",
     "scheme": "aora",
     "slug": "aora",
+    "description":"This is an aora app to share your post. It is a practice mobile app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/logo-small.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
